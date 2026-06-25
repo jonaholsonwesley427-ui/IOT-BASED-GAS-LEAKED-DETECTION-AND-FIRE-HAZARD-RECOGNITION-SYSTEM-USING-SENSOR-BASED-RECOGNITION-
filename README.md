@@ -22,31 +22,41 @@ This project is an IoT-based safety system that detects **gas leakage** and **fi
 
 ## System Architecture
 
-![System Architecture](images/arch.png)
+<p align="center">
+  <img src="images/arch.png" width="900"/>
+</p>
 
 ---
 
-## Device Operation (State Diagram)
+## State Diagram
 
-![State Diagram](images/35a147f2-d5fc-406d-b443-18bb5a88b746.png)
+<p align="center">
+  <img src="35a147f2-d5fc-406d-b443-18bb5a88b746.png" width="900"/>
+</p>
 
 ---
 
 ## Project Architecture
 
-![Project Architecture](images/arch2.png)
+<p align="center">
+  <img src="arch2.png" width="900"/>
+</p>
 
 ---
 
-## 🔥 Flame Detection Demonstration
+## 🔥Flame Detection
 
-![Flame Detection](images/WhatsApp%20Image%202026-06-11%20at%2012.19.29%20PM%20\(1\).jpeg)
+<p align="center">
+  <img src="WhatsApp%20Image%202026-06-11%20at%2012.19.29%20PM%20(1).jpeg" width="700"/>
+</p>
 
 ---
 
-## ⛽ Gas Detection Demonstration
+## ⚠️Gas Detection
 
-![Gas Detection](images/WhatsApp%20Image%202026-06-11%20at%2012.19.30%20PM.jpeg)
+<p align="center">
+  <img src="WhatsApp%20Image%202026-06-11%20at%2012.19.30%20PM.jpeg" width="700"/>
+</p>
 
 ---
 
