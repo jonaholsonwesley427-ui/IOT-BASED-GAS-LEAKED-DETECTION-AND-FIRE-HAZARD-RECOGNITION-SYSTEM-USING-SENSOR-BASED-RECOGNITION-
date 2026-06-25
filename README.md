@@ -23,7 +23,7 @@ This project is an IoT-based safety system that detects **gas leakage** and **fi
 ## System Architecture
 
 <p align="center">
-  <img src="images/arch.png" width="900"/>
+  <img src="arch.png" width="900"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@ This project is an IoT-based safety system that detects **gas leakage** and **fi
 ## ⚠️Gas Detection
 
 <p align="center">
-  <img src="WhatsApp%20Image%202026-06-11%20at%2012.19.30%20PM.jpeg" width="700"/>
+  <img src="WhatsApp Image 2026-06-11 at 12.21.44 PM (1).jpeg" width="700"/>
 </p>
 
 ---
